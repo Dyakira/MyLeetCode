@@ -1,5 +1,4 @@
-import java.util.Deque;
-import java.util.LinkedList;
+import structure.TreeNode;
 
 /**
  * Given a binary tree, find its maximum depth.
